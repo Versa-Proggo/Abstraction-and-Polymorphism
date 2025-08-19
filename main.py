@@ -8,7 +8,7 @@ class Human(Animal):
 class Snake(Animal):
     def move(self):
         print("I can crawl")
-class Dog(Animal):
+class Dogg(Animal):
     def move(self):
         print("I can bark")
 class Lion(Animal):
@@ -18,7 +18,7 @@ h = Human()
 h.move()
 s = Snake()
 s.move()
-d = Dog()
+d = Dogg()
 d.move()
 l = Lion()
 l.move()

@@ -1,6 +1,6 @@
 class BMW:
     def fuel_type(self):
-        print("BMW uses Petrol or Diesel engine")
+        print("BMW uses Petrol 0r Diesel engine")
     def max_speed(self):
         print("BMW's top speed is 250 km/h")
     def type(self):
